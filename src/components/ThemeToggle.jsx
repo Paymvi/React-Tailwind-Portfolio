@@ -7,7 +7,7 @@ import { cn } from '@/lib/utils'
 
 export const ThemeToggle = () => {
 
-    const [isDarkMode, setIsDarkMode] = useState(false);
+    const [isDarkMode, setIsDarkMode] = useState(true);
 
     // This runs when the component first mounts
     useEffect(() => {

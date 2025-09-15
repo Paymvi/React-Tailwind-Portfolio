@@ -58,7 +58,7 @@ const projects = [
     image: "/projects/portfolio1.png",
     tags: ["Vite", "ReactJS", "TailwindCSS"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Paymvi/React-Tailwind-Portfolio",
   },
 ];
 
