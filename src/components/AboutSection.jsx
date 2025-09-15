@@ -41,7 +41,7 @@ export const AboutSection = () => {
                         </a>
 
                         {/* Button 2 */}
-                        <a href="https://drive.google.com/file/d/1ao88z0t1zEej8KrK4H87k9VKQUaQIpCQ/view?usp=sharing" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300 card-hover">
+                        <a href="https://drive.google.com/file/d/1_YBC7dMs656zjGV3aIMuLOrOJ23ac0Da/view?usp=sharing" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300 card-hover">
                             Download Resume
                         </a>
                     </div>
