@@ -34,7 +34,7 @@ const projects = [
     id: 1,
     title: "Mobile App: Unimatch",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
+      "Used Android Studio to create a mobile app that matches people on campus based on interests.",
     image: "/projects/unimatch.png",
     tags: ["React", "Node.js", "Stripe"],
     demoUrl: "https://docs.google.com/presentation/d/1nWbowjqSDnWgjIc3rD9MU64hCWezrfWXVSqd0hE4Wi0/edit?usp=sharing",
@@ -54,7 +54,7 @@ const projects = [
     id: 3,
     title: "This Website",
     description:
-      "This portoflio website was made using Vite, ReactJS, and TailwindCSS.",
+      "This portfolio website was made using Vite, ReactJS, and TailwindCSS.",
     image: "/projects/portfolio1.png",
     tags: ["Vite", "ReactJS", "TailwindCSS"],
     demoUrl: "#",
